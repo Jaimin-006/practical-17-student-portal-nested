@@ -19,6 +19,10 @@ function StudentProfile() {
         <Link to="attendance" className="text-sm text-purple-700 hover:text-purple-900 font-semibold border-b-2 border-transparent hover:border-purple-600 transition pb-1">
           View Attendance
         </Link>
+        <span className="text-purple-300">|</span>
+        <Link to="fees" className="text-sm text-purple-700 hover:text-purple-900 font-semibold border-b-2 border-transparent hover:border-purple-600 transition pb-1">
+          View Fees
+        </Link>
       </div>
       
       <Outlet />
