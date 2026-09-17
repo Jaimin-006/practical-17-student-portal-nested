@@ -7,7 +7,7 @@ import AttendanceView from './pages/AttendanceView';
 function App() {
   return (
     <BrowserRouter>
-      <div className="bg-violet-50/50 min-h-screen p-8 font-sans">
+      <div className="bg-purple-50/50 min-h-screen p-8 font-sans text-slate-800">
         <Routes>
           <Route path="/" element={<StudentProfile />}>
             <Route path="marks" element={<MarksView />} />
