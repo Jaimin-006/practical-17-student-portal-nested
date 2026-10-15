@@ -1,4 +1,4 @@
-# Practical 17: E-Learning Student Portal with Nested Navigation Routes
+# Practical 17: CRUD - Read Operation with API
 
 ## How to Run
 ```bash
